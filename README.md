@@ -8,18 +8,19 @@ Usage
 Preprocess the data:
 Ensure your raw data is placed in the data/raw/ directory. Then, run the data preprocessing script:
 
-bash
-Copy code
+
 python src/data_preprocessing.py
 Run the clustering model:
 Execute the main script to perform clustering and generate visualizations:
 
-bash
-Copy code
+
 python main.py
+
 Data
 Raw Data: Place your raw customer data files in the data/raw/ directory.
 Processed Data: The preprocessed data will be saved in the data/processed/ directory.
+
+
 Modeling
 The project employs the following clustering algorithms:
 
